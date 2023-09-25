@@ -1,3 +1,3 @@
 Hello World!
 Bine ati venit.
-Linie noua.
+Linie veche.
